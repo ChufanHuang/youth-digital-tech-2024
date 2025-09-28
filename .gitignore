@@ -9,11 +9,12 @@ __pycache__/
 .env
 .ipynb_checkpoints/
 
-# Builds/outputs
-outputs/
-*.html
-*.png
-
 # Editors
 .vscode/
 .idea/
+
+# Build outputs (keep generated artifacts out of history, except docs/)
+projects/01-creative-submission-map/outputs/
+
+# Always keep site files & screenshots
+!docs/**
