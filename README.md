@@ -14,7 +14,9 @@
 ---
 
 ## 📸 Preview
-![Well-Being Map Screenshot](docs/screenshots/map_preview.png)
+![Well-Being Map Screenshot](docs/screenshots/map_preview.jpg)
+
+
 
 
 ## 🔗 Live Demo
